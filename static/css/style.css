@@ -1,0 +1,100 @@
+.nav-bg-col {
+    background-color: #fb5849;
+    }
+    
+    footer {
+    background-color: #fb5849;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    }
+    
+    nav {
+    margin-bottom: 20px;;
+    }
+    
+    .foot-img {
+    height: 10%;
+    text-align: center;
+    }
+    
+    .carouselExampleSlidesOnly img {
+    height: 100%
+    }
+    
+    .socials i {
+        color: black;
+    }
+
+.main-white-button a:hover {
+  opacity: 0.9;
+}
+
+@media (max-width: 992px) {
+    #top {
+        padding-top: 0;
+        height: auto;
+    }
+    #top .left-content {
+    text-align: center;
+    padding: 25% 0px;
+    }
+    footer p {
+        font-size: 12px;
+    }
+}
+
+/* 
+---------------------------------------------
+Menu
+--------------------------------------------- 
+*/
+
+.menu-title {
+  text-align: center;
+  padding: 20px;
+  color: #fb5849;
+}
+
+.menu-btn {
+  background-color: #fb5849;
+  color: #fff;
+  border-color: #fb5849;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+/* 
+---------------------------------------------
+Review
+--------------------------------------------- 
+*/
+
+.review {
+    margin: 20px auto;
+  }
+  
+  .review-form {
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #fb5849;
+    text-align: center;
+  }
+  
+  .review-form input, textarea {
+    width: 80%;
+  }
+  
+  #reviewer {
+    color: #fb5849;
+    text-align: center;
+  }
+  
+  .title {
+    color: #fb5849;
+    text-align: center;
+  }
+  
